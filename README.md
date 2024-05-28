@@ -8,7 +8,6 @@
 
 - 💬 Ask me about **MERN stack and flutter**
 
-- 📫 How to reach me **Devsuman2023@gmail.com**
 
 - ⚡ Fun fact **I m funny 🤷‍♂️**
 
