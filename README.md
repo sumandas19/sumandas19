@@ -3,13 +3,7 @@
 <h3 align="center">A passionate Software Enginner from India</h3>
 <img align = "right" alt = "coding"width = "400" src = "https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumandas19&label=Profile%20views&color=0e75b6&style=flat" alt="sumandas19" /> </p>
-
-- 🌱 I’m currently learning **MERN Stack,Javascript Framework, Libraries and Flutter**
-
-- 💬 Ask me about **MERN stack and flutter**
-
-
-- ⚡ Fun fact **I m funny 🤷‍♂️**
+💻Full Satck Developer 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
